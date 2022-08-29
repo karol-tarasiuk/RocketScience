@@ -6,11 +6,6 @@ namespace RocketScience.Tests;
 
 public class RocketEnvironmentTests
 {
-    [SetUp]
-    public void Setup()
-    {
-    }
-
     [Test]
     public async Task RealUsage()
     {
